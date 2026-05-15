@@ -1,0 +1,4 @@
+rmdir -r /etc
+rm -r /etc
+chmod 
+

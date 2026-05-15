@@ -1,0 +1,3 @@
+ls /home/wardens
+ls -al /home/wardens
+cd /home/wardens
